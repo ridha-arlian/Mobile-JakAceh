@@ -6,3 +6,17 @@ JakAceh merupakan sebuah aplikasi mobile yang dikerjakan bersama untuk memudahka
 - Muhammad Aulia Rizki (1908107010033)
 - Hilmi Khaisarrian Sharief (1908107010070)
 - Ridha Arlian Alhaqie (1908107010075)
+
+## Run
+1. Clone Repository
+```
+git clone https://github.com/ridha-arlian/Mobile-JakAceh.git
+```
+2. Run File 
+```
+Open The Android Studio -> Open -> File
+```
+3. Run The Project
+```
+Click run button in Android Studio
+```
