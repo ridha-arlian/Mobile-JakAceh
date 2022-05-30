@@ -1,0 +1,9 @@
+<resources>
+    <style name="Apptheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#4E3620</item>
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@android:color/darker_gray</item>
+        <item name="colorControlActivated">@color/colorRating</item>
+    </style>
+</resources>

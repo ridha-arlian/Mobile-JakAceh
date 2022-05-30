@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@color/coklat_susu_banget"
+    android:gravity="bottom"
+    >
+    <ImageView
+        android:id="@+id/foto_profil"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/fotoprofil"
+        android:layout_margin="20dp">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/vollkorn"
+        android:text="RAHMAD CORNELIUS"
+        android:textColor="@color/putih_dedak"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="rahmad712@gmail.com"
+        android:textSize="14dp"
+        android:fontFamily="@font/vollkorn"
+        android:textColor="@color/putih_dedak"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="30dp"></TextView>
+
+</LinearLayout>
